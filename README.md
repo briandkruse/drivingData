@@ -26,10 +26,10 @@ The user can drive as they normally would, and after following the same route se
 Wireframes:  
 [Home](screens.Home.png)  
 [Login](screens.Login.png)  
-[New Route](screens.New Route.png)  
-[Existing Routes](screens.View Existing Routes.png)  
-[Existing Routes Details](screens.Existing Route Details.png)  
-[User Preferences](screens.User Preferences.png)  
+[New Route](screens.NewRoute.png)  
+[Existing Routes](screens.ViewExistingRoutes.png)  
+[Existing Routes Details](screens.ExistingRouteDetails.png)  
+[User Preferences](screens.UserPreferences.png)  
 
 ### Plan 
 
