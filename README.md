@@ -19,9 +19,19 @@ The user can drive as they normally would, and after following the same route se
   * Google Maps Roads API
 * Logging 
   * Log4J
-* Hosted on AWS
-* Unit Testing
+* Hosted on amazon web services
+* Unit Testing with junit
 
 ### Design
+Wireframes:  
+[Home](screens.Home.png)  
+[Login](screens.Login.png)  
+[New Route](screens.New Route.png)  
+[Existing Routes](screens.View Existing Routes.png)  
+[Existing Routes Details](screens.Existing Route Details.png)  
+[User Preferences](screens.User Preferences.png)  
 
-### Plan
+### Plan 
+
+
+### [Time Log](timelog.md)
