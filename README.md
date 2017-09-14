@@ -24,14 +24,14 @@ The user can drive as they normally would, and after following the same route se
 
 ### Design
 Wireframes:  
-[Home](screens.Home.png)  
-[Login](screens.Login.png)  
-[New Route](screens.NewRoute.png)  
-[Existing Routes](screens.ViewExistingRoutes.png)  
-[Existing Routes Details](screens.ExistingRouteDetails.png)  
-[User Preferences](screens.UserPreferences.png)  
+[Home](screens/Home.png)  
+[Login](screens/Login.png)  
+[New Route](screens/NewRoute.png)  
+[Existing Routes](screens/ViewExistingRoutes.png)  
+[Existing Routes Details](screens/ExistingRouteDetails.png)  
+[User Preferences](screens/UserPreferences.png)  
 
-### Plan 
+### [Plan](projectplan.md) 
 
 
 ### [Time Log](timelog.md)
